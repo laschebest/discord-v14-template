@@ -4,7 +4,7 @@
 
 ### 🔧 Features
 - Sharding (optional)
-- Command Handling (/ and Custom Prefix)
+- Command Handling (/ and Custom Prefix) 
 - MongoDB Support (if you want to use you can enable MongoDB in Utilities/Settings/config.js)
 - More than one prefix ".", "!", "&", "*"...
 - Command Cooldowns
