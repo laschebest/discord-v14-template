@@ -35,7 +35,7 @@ npm run sharded
 
 ### 🔧 Özellikler
 - Discord.js Sharding (opsiyonel)
-- Komut Yönetimi (/ ve Özel Ön Ekler)
+- Komut Yönetimi (/ ve Özel Prefixler)
 - MongoDB Desteği (MongoDB'yi kullanmak isterseniz Utilities/Settings/config.js dosyasında etkinleştirebilirsiniz)
 - Birden fazla ön ek: ".", "!", "&", "*"...
 - Komut Cooldown (Bekleme Süresi)
