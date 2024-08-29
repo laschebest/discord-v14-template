@@ -1,0 +1,20 @@
+{
+  "name": "discord-v14-template",
+  "version": "1.0.0",
+  "main": "./Main/index.js",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.6.0",
+    "path": "^0.12.7",
+    "util": "^0.12.5"
+  },
+  "scripts": {
+    "start": "node ./Main/index.js",
+    "sharded": "node ./Main/shard.js"
+  },
+  "keywords": ["discord-v14-bots", "discord", "discord-template", "discord-v14-template"],
+  "author": "laschebest",
+  "license": "GPL-3.0",
+  "description": "Lunatix development, discord v14 bot template. for y'all developers!"
+}
