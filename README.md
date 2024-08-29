@@ -41,8 +41,8 @@ npm run sharded
 - Komut Cooldown (Bekleme Süresi)
 
 ### 🌆 Diziler
-- Ana (Ana bot dosyası (index.js), shard.js (Sharding Manager), Komutlar, Olaylar)
-- Yardımcı (Veritabanı, Örnekler, Yardımcılar, Ayarlar)
+- Main (Ana bot dosyası (index.js), shard.js (Sharding Manager), Commands, Events)
+- Utilities (Database, Examples, Helpers, Settings)
 
 ### ⬇ Kurulum:
 - Utilities/Settings/config.js dosyasını doldurun.
