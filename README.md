@@ -6,7 +6,7 @@
 - Sharding (optional)
 - Command Handling (/ and Custom Prefix) 
 - MongoDB Support (if you want to use you can enable MongoDB in Utilities/Settings/config.js)
-- More than one prefix ".", "!", "&", "*"...
+- More than one prefix ".", "!", "&", "*"... (optional)
 - Command Cooldowns
   
 ### 🌆 Directories
@@ -37,7 +37,7 @@ npm run sharded
 - Discord.js Sharding (opsiyonel)
 - Komut Yönetimi (/ ve Özel Prefixler)
 - MongoDB Desteği (MongoDB'yi kullanmak isterseniz Utilities/Settings/config.js dosyasında etkinleştirebilirsiniz)
-- Birden fazla ön ek: ".", "!", "&", "*"...
+- Birden fazla prefix: ".", "!", "&", "*"... (isteğe bağlı)
 - Komut Cooldown (Bekleme Süresi)
 
 ### 🌆 Diziler
