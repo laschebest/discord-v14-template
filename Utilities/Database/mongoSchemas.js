@@ -1,10 +1,12 @@
 //discord.gg/lunatix && laschebest
-const { Model, Schema } = require('mongoose');
+const { model, Schema } = require('mongoose');
 
-const ExampleModel = new Model('Example', new Schema({
+const ExampleSchema = new Schema({
     name: String,
     age: Number
-}));
+});
+
+new model('Example', ExampleSchema)
 
 module.exports = {
     ExampleModel,
